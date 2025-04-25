@@ -4,6 +4,5 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Houston, teachHouston program"
-date: 2026
 location: "Houston"
 ---
